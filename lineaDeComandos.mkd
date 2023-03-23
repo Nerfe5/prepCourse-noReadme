@@ -1,0 +1,41 @@
+
+**Los comandos de la terminal**
+*Utilizan opciones y argumentos. Las opciones son todas aquellas precedidas por un guion y sirven para alterar el comportamiento del comando agregando alguna funcionalidad extra, mientras que los argumentos indican sobre que argumento se aplicara la instruccion o en comando escrito* 
+
+
+
+
+--la terminal no es más que la interfaz de la linea de comandos CLI que nos permite comunicarnos con la computadora atravez de los comandos simples para darle ordenes y conseguir un resultado especifico --
+
+
+--Repositorio--
+**¿Qué es un repositorio?**
+*Almacén o lugar donde se guardan ciertas cosas*
+//Guardar, mantener y manipular el código de hoy 
+para poder trabajarlo días, años, meses, décadas más tarde//
+
+**Git**
+--(Sistema de control de versiones)--
+Guardar, mantener y manipular archivos a lo largo del tiempo
+Posibildad de trabajo colaborativo
+Proyectos guardados en un almacén "repositorio"
+
+----------Configuración de las credenciales de Git----------------
+*git config --global user.email "n3rfe5@gmail.com"*
+*git config --global user.name "Nerfe5"*
+
+
+<-------->Creación de repositorio y primer commit<--------------------->
+
+*git init* 
+convierte la carpata donde nos encontramos ubicados en nuestro repositorio local, osea el almacén en donde vamos a guardar nuestros archivos de código e inclusive otras carpetas 
+"Initialized empty Git repository in /..."
+
+*Importante*: Nunca debemos hacer Git Init dentro de la carpeta escritorio o de archivos grandes
+
+
+**Primer Commit**
+Captura instantánea de los cambios preparados en ese momento del proyecto.
+Guarda una "foto" del estado de los archivos y carpetas del repositorio local, al momento de "ser tomada"
+
+
