@@ -36,6 +36,7 @@ convierte la carpata donde nos encontramos ubicados en nuestro repositorio local
 
 **Primer Commit**
 Captura instantánea de los cambios preparados en ese momento del proyecto.
-Guarda una "foto" del estado de los archivos y carpetas del repositorio local, al momento de "ser tomada"
+Guarda una "foto" del estado de los archivos y carpetas del repositorio local, al momento de "ser tomada".
+
 
 
